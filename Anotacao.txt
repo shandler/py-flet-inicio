@@ -1,3 +1,10 @@
 git init
 gh repo create py-flet-inicio --public --source=. --remote=upstream
 
+git pull --set-upstream origin main
+
+
+git push --set-upstream origin main
+
+git commit -m "Commit test"
+git push
