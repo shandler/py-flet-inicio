@@ -1,0 +1,3 @@
+git init
+gh repo create py-flet-inicio --public --source=. --remote=upstream
+
