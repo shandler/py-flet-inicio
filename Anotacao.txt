@@ -2,7 +2,7 @@
 git init
 
 - Criar repositorio com base no diretório atual
-gh repo create py-flet-inicio --public --source=. --remote=upstream --add-readme --gitignore=python
+gh repo create py-flet-inicio --public --source=. --remote=upstream --add-readme --gitignore=python --push
 
 - Criar arquivo .gitignore - e Fazer o pull
 git pull --set-upstream origin main
